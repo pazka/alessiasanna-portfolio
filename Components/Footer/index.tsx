@@ -3,6 +3,10 @@ import * as React from 'react'
 import styled from 'styled-components';
 
 const Wrapper = styled.div`
+    position : fixed;
+    bottom : 1em;
+    right : 1em;
+
     color : gray;
     font-size : 0.8em;
 
